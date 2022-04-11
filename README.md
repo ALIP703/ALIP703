@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm MUHAMMED ALI     <img src="https://github.com/midlajc/midlajc/blob/master/assets/Hi.gif" width="29px">
 </h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer from Kerala</h3>
 
 <br>
 <br>
