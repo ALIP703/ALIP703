@@ -5,7 +5,7 @@
 
 <br>
 <br>
-<p align="center">    <img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=alip703&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D"/></p>
+<p align="center">    <img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=alip703&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alip703&label=Profile%20views&color=0e75b6&style=flat"
     alt="alip703" /> </p>
 
@@ -52,7 +52,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alip703&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117"
-    alt="alip703" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alip703&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117"
+    alt="alip703" /></p> -->
 
 
