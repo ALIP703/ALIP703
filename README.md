@@ -1,14 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm MUHAMMED ALI</h1>
+<h1 align="center">Hi, I'm MUHAMMED ALI     <img src="https://github.com/midlajc/midlajc/blob/master/assets/Hi.gif" width="29px">
+</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <br>
 <br>
-<center>
-<p><img align="center" style="justify-center" src="https://github-readme-streak-stats.herokuapp.com/?user=alip703&" alt="alip703" /></p>
-</center>
+<p align="center">    <img alt="Languages known" src="https://github-readme-streak-stats.herokuapp.com?user=alip703&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alip703&label=Profile%20views&color=0e75b6&style=flat"
     alt="alip703" /> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,7 +52,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alip703&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alip703&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117"
     alt="alip703" /></p>
 
 
