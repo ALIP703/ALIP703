@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm MUHAMMED ALI     <img src="https://github.com/midlajc/midlajc/blob/master/assets/Hi.gif" width="9px">
+<h1 align="center">Hi, I'm MUHAMMED ALI    
 </h1>
 <h3 align="center">A passionate web developer from Kerala</h3>
 
