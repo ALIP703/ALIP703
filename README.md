@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/muhammed-ali-997245237" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="muhammed-ali-997245237" height="30" width="40" /></a>
-  
+  <a href="mailto:muhammedalip703@gmail.com"><img width="32px" alt="gamil"  src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
