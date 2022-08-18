@@ -13,18 +13,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- 
-   <a target="_blank" href="https://www.instagram.com/muhammed_ali7o3/"><img width="32px" alt="Instagram" title="Instagram"
-      src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="https://wa.me/+917510642603"><img width="32px" alt="Whatsapp" title="Whatsapp"
-      src="https://cdn-icons-png.flaticon.com/512/220/220236.png" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a target="_blank" href="mailto:muhammedalip703@gmail.com"><img width="32px" alt="gmail" title="gmail"
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a target="_blank" href="https://linkedin.com/in/muhammed-ali-997245237"><img width="32px" alt="Linkedin"
       title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a target="_blank" href="mailto:muhammedalip703@gmail.com"><img width="32px" alt="gmail" title="gmail"
-      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+  <a target="_blank" href="https://wa.me/+917510642603"><img width="32px" alt="Whatsapp" title="Whatsapp"
+      src="https://cdn-icons-png.flaticon.com/512/220/220236.png" /></a>
+  
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a target="_blank" href="https://www.instagram.com/muhammed_ali7o3/"><img width="32px" alt="Instagram" title="Instagram"
+      src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
