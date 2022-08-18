@@ -20,8 +20,7 @@
       title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a target="_blank" href="https://wa.me/+917510642603"><img width="32px" alt="Whatsapp" title="Whatsapp"
-      src="https://cdn-icons-png.flaticon.com/512/220/220236.png" /></a>
-  
+      src="https://cdn-icons-png.flaticon.com/512/220/220236.png" /></a>  
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a target="_blank" href="https://www.instagram.com/muhammed_ali7o3/"><img width="32px" alt="Instagram" title="Instagram"
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
