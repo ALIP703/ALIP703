@@ -13,9 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a target="_blank" href="https://t.me/muhammed_ali7o3"><img width="32px" alt="Telegram" title="Telegram"
-      src="https://cdn-icons-png.flaticon.com/512/906/906377.png" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
    <a target="_blank" href="https://www.instagram.com/muhammed_ali7o3/"><img width="32px" alt="Instagram" title="Instagram"
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
