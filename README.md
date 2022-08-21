@@ -93,7 +93,15 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+<img src="https://img.icons8.com/color/48/000000/figma.png" />&nbsp;
+  <img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png" />
+  <!-- &nbsp;<img src="https://img.icons8.com/color/48/000000/nginx.png"/> -->
+  &nbsp;<img src="https://img.icons8.com/color/48/000000/git.png" />
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" />&nbsp;
+  <!-- <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp; -->
+  <img src="https://img.icons8.com/color/48/000000/console.png" />&nbsp;<img
+    src="https://img.icons8.com/color/48/000000/github--v1.png" />
 </p>
 <h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Databases :</h3>
 <p align="left">
