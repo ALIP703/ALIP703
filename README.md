@@ -7,15 +7,15 @@
 <p align="center"> <img alt="Languages known"
         src="https://github-readme-streak-stats.herokuapp.com?user=alip703&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-<p align="left"> &#8287;&#8287;&#8287;&#8287;&#8287;<img
+<p align="center"> &#8287;&#8287;&#8287;&#8287;&#8287;<img
         src="https://komarev.com/ghpvc/?username=alip703&label=Profile%20views&color=0e75b6&style=flat" alt="alip703" />
 </p>
 
 
 
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Connect with me:</h3>
+<h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Connect with me:</h3>
 
-<p align="left">
+<p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a target="_blank" href="mailto:muhammedalip703@gmail.com"><img width="32px" alt="gmail" title="gmail"
@@ -31,8 +31,8 @@
             title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
 </p>
 <br>
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Languages :</h3>
-<p align="left">
+<h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Languages :</h3>
+<p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -80,8 +80,8 @@
             alt="react" width="40" height="40" />
     </a>
 </p>
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Tools :</h3>
-<p align="left">
+<h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Tools :</h3>
+<p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -95,8 +95,8 @@
     </a>
 
 </p>
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Databases :</h3>
-<p align="left">
+<h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Databases :</h3>
+<p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
