@@ -35,6 +35,7 @@
 <p align="left">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
+    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" />
@@ -99,8 +100,8 @@
     <img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png" />
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- &nbsp;<img src="https://img.icons8.com/color/48/000000/nginx.png"/> -->
-    <img src="https://img.icons8.com/color/48/000000/git.png" />
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <!-- <img src="https://img.icons8.com/color/48/000000/git.png" />
+    &#8287;&#8287;&#8287;&#8287;&#8287; -->
     <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" />
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp; -->
