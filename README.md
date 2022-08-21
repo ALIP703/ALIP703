@@ -110,3 +110,6 @@
             alt="mysql" width="40" height="40" />
     </a>
 </p>
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abdulsamadmj&theme=react-dark">
+</p>
