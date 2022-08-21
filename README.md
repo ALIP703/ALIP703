@@ -29,7 +29,7 @@
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
 </p>
 <br>
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Languages and Tools:</h3>
+<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Languages :</h3>
 <p align="left">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
