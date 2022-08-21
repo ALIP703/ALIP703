@@ -28,8 +28,9 @@
       src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
 </p>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Languages and Tools:</h3>
 <p align="left">
+    &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" />
