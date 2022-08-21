@@ -98,7 +98,12 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alip703&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117"
-    alt="alip703" /></p>
+<p>&nbsp;
+
+    <img alt="ALI's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI703&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+    </p>
 
 
