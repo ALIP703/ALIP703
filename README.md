@@ -10,8 +10,9 @@
     alt="alip703" /> </p>
 
 
-
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <h3 align="left">Connect with me:</h3>
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <p align="left">
    <a target="_blank" href="mailto:muhammedalip703@gmail.com"><img width="32px" alt="gmail" title="gmail"
       src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
