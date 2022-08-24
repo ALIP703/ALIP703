@@ -80,8 +80,7 @@
     </a>
 </p>
 <h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Tools :</h3>
-<p align="left">
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+<p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
@@ -107,8 +106,7 @@
       <img src="https://img.icons8.com/color/48/000000/github--v1.png" />
 </p>
 <h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Databases :</h3>
-<p align="left">
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+<p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
