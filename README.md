@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Connect with me:</h3>
+<h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Connect with me:</h3>
 
 <p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -30,7 +30,7 @@
             title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
 </p>
 <br>
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Languages :</h3>
+<h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Languages :</h3>
 <p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -78,7 +78,7 @@
             alt="react" width="40" height="40" />
     </a>
 </p>
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Tools :</h3>
+<h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Tools :</h3>
 <p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -104,7 +104,7 @@
       &#8287;&#8287;&#8287;&#8287;&#8287;
       <img src="https://img.icons8.com/color/48/000000/github--v1.png" />
 </p>
-<h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Databases :</h3>
+<h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Databases :</h3>
 <p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
