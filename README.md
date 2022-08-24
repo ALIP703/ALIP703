@@ -32,7 +32,7 @@
 </p>
 <br>
 <h3 align="left">&#8287;&#8287;&#8287;&#8287;&#8287;Languages :</h3>
-<p align="left">
+<p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
