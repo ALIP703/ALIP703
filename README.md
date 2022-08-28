@@ -4,7 +4,7 @@
 
 <br>
 <br>
-<p  <img alt="Languages known"
+<p align="center"> <img alt="Languages known"
         src="https://github-readme-streak-stats.herokuapp.com?user=alip703&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <p align="left"> &#8287;&#8287;&#8287;&#8287;&#8287;<img
