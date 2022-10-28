@@ -12,7 +12,6 @@
 </p>
 
 
-
 <h3 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;Connect with me:</h3>
 
 <p align="center">
