@@ -67,11 +67,11 @@
             alt="javascript" width="40" height="40" />
     </a>
         
-    &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg"
             alt="javascript" width="40" height="40" />
-    </a>
+    </a> -->
         
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
