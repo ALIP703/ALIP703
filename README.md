@@ -69,7 +69,7 @@
         
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"
+        <img src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg"
             alt="javascript" width="40" height="40" />
     </a>
         
