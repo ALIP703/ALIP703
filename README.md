@@ -16,7 +16,7 @@
 
 <p align="center">
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a target="_blank" href="mailto:muhammedalip703@gmail.com"><img width="32px" alt="gmail" title="gmail"
+    <a target="_blank" href="mailto:mail.muhammedalip@gmail.com"><img width="32px" alt="gmail" title="gmail"
             src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a target="_blank" href="https://linkedin.com/in/muhammed-ali-997245237"><img width="32px" alt="Linkedin"
